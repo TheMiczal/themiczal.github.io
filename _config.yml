@@ -162,12 +162,11 @@ sections:
     title: Programming
     id: programming
     video: true
-    paragraph: Im mainly interested in Graphic Design, but also I like programming. I know basics of AHK, C++ and Java but mainly I`m programming in Python. I wrote few games in Python. My most succesfull one is Bandyt Souls II - a joke game for my friend streamer.
+    paragraph: Im mainly interested in Graphic Design, but also I like programming. I know basics of AHK, C++ and Java but mainly I`m programming in Python. I wrote few games in Python.
     images:
       -
-        full: "/assets/img/Bs2_Trailer1.webm"
-      -
-        full: "/assets/img/Bs2_Trailer2.webm"
+        
+        
 
 # Footer content - please edit the _includes/footer.html file.
 
