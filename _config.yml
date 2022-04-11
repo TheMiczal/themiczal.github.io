@@ -159,11 +159,21 @@ sections:
     title: Programming
     id: programming
     video: true
-    paragraph: Im mainly interested in Graphic Design, but also I like programming. I know basics of AHK, C++ and Java but mainly I`m programming in Python. I wrote few games in Python.
+    paragraph: Im mainly interested in Graphic Design, but also I like programming. I know basics of AHK, C++ and Java but mainly I`m programming in Python. Right now im working on indie game called <a href="https://themiczal.github.io/TaleofWitchsHeart/">Tale of Witch's Heart</a>
     images:
       -
-        
-        
+        full: "/assets/img/Game1_full.png"
+        min: "/assets/img/Game1_small.png"'
+      -
+        full: "/assets/img/Game2_full.png"
+        min: "/assets/img/Game2_small.png"
+      -
+        full: "/assets/img/Game3_full.png"
+        min: "/assets/img/Game3_small.png"
+      -
+        full: "/assets/img/Game4_full.png"
+        min: "/assets/img/Game4_small.png"
+   
 
 # Footer content - please edit the _includes/footer.html file.
 
