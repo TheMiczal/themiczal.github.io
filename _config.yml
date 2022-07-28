@@ -163,7 +163,7 @@ sections:
     images:
       -
         full: "/assets/img/Game1_full.png"
-        min: "/assets/img/Game1_small.png"'
+        min: "/assets/img/Game1_small.png"
       -
         full: "/assets/img/Game2_full.png"
         min: "/assets/img/Game2_small.png"
