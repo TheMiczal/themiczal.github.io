@@ -31,10 +31,10 @@ owner: "Miczał"
 nav_sites:
   -
     link: "https://www.instagram.com/miczal_/"
-    icon: icon-instagram
+    icon: icon-in
   -
     link: "https://www.youtube.com/channel/UC1-vE37Wb2sxfGgXYFsQhjw"
-    icon: icon-youtube
+    icon: icon-yt
 
 # Main content
 header: Hi.</br>I'm&nbsp;Miczał

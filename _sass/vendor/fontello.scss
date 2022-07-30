@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'fontello';
-  src: url('../../assets/fonts/fontello.woff2?12712779') format('woff2'),
-       url('../../assets/fonts/.ttf?12712779') format('truetype');
+  src: url('../../assets/fonts/fontello.woff2?70970401') format('woff2'),
+       url('../../assets/fonts/fontello.ttf?70970401') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
@@ -34,7 +34,5 @@
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
 
-.icon-github:before { content: '\e800'; }
-.icon-youtube:before { content: '\f16a'; }
-.icon-deviantart:before { content: '\f1bd'; }
-.icon-instagram:before { content: '\f32d'; }
+.icon-yt:before { content: '\e800'; }
+.icon-in:before { content: '\f05e'; }

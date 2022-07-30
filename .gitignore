@@ -4,3 +4,4 @@ vendor/bundle
 .jekyll-cache/
 .bundle/
 .jekyll-metadata
+Gemfile.lock
