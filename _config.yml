@@ -90,6 +90,21 @@ images:
     full: "/assets/img/slider15.jpg"
     min: "/assets/img/slider15.jpg"
   -
+    full: "/assets/img/slider17.jpg"
+    min: "/assets/img/slider17.jpg"
+  -
+    full: "/assets/img/slider18.jpg"
+    min: "/assets/img/slider18.jpg"
+  -
+    full: "/assets/img/slider19.jpg"
+    min: "/assets/img/slider19.jpg"
+  -
+    full: "/assets/img/slider20.jpg"
+    min: "/assets/img/slider20.jpg"
+  -
+    full: "/assets/img/slider21.jpg"
+    min: "/assets/img/slider21.jpg"
+  -
 
 sections:
   -
@@ -119,11 +134,17 @@ sections:
       -
         full: "/assets/img/Drawings7_full.png"
         min: "/assets/img/Drawings7_small.png"
+      -
+        full: "/assets/img/Drawings8_full.png"
+        min: "/assets/img/Drawings8_small.png"
+      -
+        full: "/assets/img/Drawings9_full.png"
+        min: "/assets/img/Drawings9_small.png"
   -
     title: Concept Art
     id: conceptart
     video: false
-    paragraph: Concept Art is another thing i was working on. Despite being easier to draw becouse I dont have to add shades, this is what I still have to learn the most.
+    paragraph: Concept Art is another thing i was working on. Despite being easier to draw becouse I don't have to add shades, this is what I still have to learn the most.
     images:
       -
         full: "/assets/img/CA3_full.png"
@@ -134,6 +155,15 @@ sections:
       -
         full: "/assets/img/CA1_full.png"
         min: "/assets/img/CA1_small.png"
+      -
+        full: "/assets/img/CA4_full.png"
+        min: "/assets/img/CA4_small.png"
+      -
+        full: "/assets/img/CA5_full.png"
+        min: "/assets/img/CA5_small.png"
+      -
+        full: "/assets/img/CA6_full.png"
+        min: "/assets/img/CA6_small.png"
   -
     title: Posters
     id: posters
@@ -162,17 +192,29 @@ sections:
     paragraph: Im mainly interested in Graphic Design, but also I like programming. I know basics of AHK, C++ and Java but mainly I`m programming in Python. Right now im working on indie game called <a href="https://themiczal.github.io/TaleofWitchsHeart/">Tale of Witch's Heart</a>
     images:
       -
-        full: "/assets/img/Game1_full.png"
-        min: "/assets/img/Game1_small.png"
+        full: "/assets/img/screen0.png"
+        min: "/assets/img/screen0.png"
       -
-        full: "/assets/img/Game2_full.png"
-        min: "/assets/img/Game2_small.png"
+        full: "/assets/img/screen1.png"
+        min: "/assets/img/screen1.png"
       -
-        full: "/assets/img/Game3_full.png"
-        min: "/assets/img/Game3_small.png"
+        full: "/assets/img/screen2.png"
+        min: "/assets/img/screen2.png"
       -
-        full: "/assets/img/Game4_full.png"
-        min: "/assets/img/Game4_small.png"
+        full: "/assets/img/screen3.png"
+        min: "/assets/img/screen3.png"
+      -
+        full: "/assets/img/screen4.png"
+        min: "/assets/img/screen4.png"
+      -
+        full: "/assets/img/screen5.png"
+        min: "/assets/img/screen5.png"
+      -
+        full: "/assets/img/screen6.png"
+        min: "/assets/img/screen6.png"
+      -
+        full: "/assets/img/screen7.png"
+        min: "/assets/img/screen7.png"
    
 
 # Footer content - please edit the _includes/footer.html file.
