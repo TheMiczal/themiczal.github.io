@@ -90,20 +90,20 @@ images:
     full: "/assets/img/slider15.jpg"
     min: "/assets/img/slider15.jpg"
   -
-    full: "/assets/img/slider17.jpg"
-    min: "/assets/img/slider17.jpg"
+    full: "/assets/img/slider17.png"
+    min: "/assets/img/slider17.png"
   -
-    full: "/assets/img/slider18.jpg"
-    min: "/assets/img/slider18.jpg"
+    full: "/assets/img/slider18.png"
+    min: "/assets/img/slider18.png"
   -
-    full: "/assets/img/slider19.jpg"
-    min: "/assets/img/slider19.jpg"
+    full: "/assets/img/slider19.png"
+    min: "/assets/img/slider19.png"
   -
-    full: "/assets/img/slider20.jpg"
-    min: "/assets/img/slider20.jpg"
+    full: "/assets/img/slider20.png"
+    min: "/assets/img/slider20.png"
   -
-    full: "/assets/img/slider21.jpg"
-    min: "/assets/img/slider21.jpg"
+    full: "/assets/img/slider21.png"
+    min: "/assets/img/slider21.png"
   -
 
 sections:
