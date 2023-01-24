@@ -45,65 +45,65 @@ indexParagraph2: I'm 21 years old, I like to draw, play games and watch stars at
 # Carousel images paths
 images:
   -
-    full: "/assets/img/slider1.jpg"
-    min: "/assets/img/slider1.jpg"
+    full: "/assets/img/slider1"
+    min: "/assets/img/slider1"
   -
-    full: "/assets/img/slider2.jpg"
-    min: "/assets/img/slider2.jpg"
+    full: "/assets/img/slider2"
+    min: "/assets/img/slider2"
   -
-    full: "/assets/img/slider3.jpg"
-    min: "/assets/img/slider3.jpg"
+    full: "/assets/img/slider3"
+    min: "/assets/img/slider3"
   -
-    full: "/assets/img/slider4.jpg"
-    min: "/assets/img/slider4.jpg"
+    full: "/assets/img/slider4"
+    min: "/assets/img/slider4"
   -
-    full: "/assets/img/slider5.jpg"
-    min: "/assets/img/slider5.jpg"
+    full: "/assets/img/slider5"
+    min: "/assets/img/slider5"
   -
-    full: "/assets/img/slider6.jpg"
-    min: "/assets/img/slider6.jpg"
+    full: "/assets/img/slider6"
+    min: "/assets/img/slider6"
   -
-    full: "/assets/img/slider7.jpg"
-    min: "/assets/img/slider7.jpg"
+    full: "/assets/img/slider7"
+    min: "/assets/img/slider7"
   -
-    full: "/assets/img/slider8.jpg"
-    min: "/assets/img/slider8.jpg"
+    full: "/assets/img/slider8"
+    min: "/assets/img/slider8"
   -
-    full: "/assets/img/slider9.jpg"
-    min: "/assets/img/slider9.jpg"
+    full: "/assets/img/slider9"
+    min: "/assets/img/slider9"
   -
-    full: "/assets/img/slider10.jpg"
-    min: "/assets/img/slider10.jpg"
+    full: "/assets/img/slider10"
+    min: "/assets/img/slider10"
   -
-    full: "/assets/img/slider11.jpg"
-    min: "/assets/img/slider11.jpg"
+    full: "/assets/img/slider11"
+    min: "/assets/img/slider11"
   -
-    full: "/assets/img/slider12.jpg"
-    min: "/assets/img/slider12.jpg"
+    full: "/assets/img/slider12"
+    min: "/assets/img/slider12"
   -
-    full: "/assets/img/slider13.jpg"
-    min: "/assets/img/slider13.jpg"
+    full: "/assets/img/slider13"
+    min: "/assets/img/slider13"
   -
-    full: "/assets/img/slider14.jpg"
-    min: "/assets/img/slider14.jpg"
+    full: "/assets/img/slider14"
+    min: "/assets/img/slider14"
   -
-    full: "/assets/img/slider15.jpg"
-    min: "/assets/img/slider15.jpg"
+    full: "/assets/img/slider15"
+    min: "/assets/img/slider15"
   -
-    full: "/assets/img/slider17.png"
-    min: "/assets/img/slider17.png"
+    full: "/assets/img/slider17"
+    min: "/assets/img/slider17"
   -
-    full: "/assets/img/slider18.png"
-    min: "/assets/img/slider18.png"
+    full: "/assets/img/slider18"
+    min: "/assets/img/slider18"
   -
-    full: "/assets/img/slider19.png"
-    min: "/assets/img/slider19.png"
+    full: "/assets/img/slider19"
+    min: "/assets/img/slider19"
   -
-    full: "/assets/img/slider20.png"
-    min: "/assets/img/slider20.png"
+    full: "/assets/img/slider20"
+    min: "/assets/img/slider20"
   -
-    full: "/assets/img/slider21.png"
-    min: "/assets/img/slider21.png"
+    full: "/assets/img/slider21"
+    min: "/assets/img/slider21"
   -
 
 sections:
@@ -114,32 +114,32 @@ sections:
     paragraph: I'm drawing for few years now. Style of my drawings, is mainly anime-like, but I like to experiment with other styles.
     images:
       -
-        full: "/assets/img/Drawings1_full.png"
-        min: "/assets/img/Drawings1_small.png"
+        full: "/assets/img/Drawings1_full"
+        min: "/assets/img/Drawings1_small"
       -
-        full: "/assets/img/Drawings2_full.png"
-        min: "/assets/img/Drawings2_small.png"
+        full: "/assets/img/Drawings2_full"
+        min: "/assets/img/Drawings2_small"
       -
-        full: "/assets/img/Drawings3_full.png"
-        min: "/assets/img/Drawings3_small.png"
+        full: "/assets/img/Drawings3_full"
+        min: "/assets/img/Drawings3_small"
       -
-        full: "/assets/img/Drawings4_full.png"
-        min: "/assets/img/Drawings4_small.png"
+        full: "/assets/img/Drawings4_full"
+        min: "/assets/img/Drawings4_small"
       -
-        full: "/assets/img/Drawings5_full.png"
-        min: "/assets/img/Drawings5_small.png"
+        full: "/assets/img/Drawings5_full"
+        min: "/assets/img/Drawings5_small"
       -
-        full: "/assets/img/Drawings6_full.png"
-        min: "/assets/img/Drawings6_small.png"
+        full: "/assets/img/Drawings6_full"
+        min: "/assets/img/Drawings6_small"
       -
-        full: "/assets/img/Drawings7_full.png"
-        min: "/assets/img/Drawings7_small.png"
+        full: "/assets/img/Drawings7_full"
+        min: "/assets/img/Drawings7_small"
       -
-        full: "/assets/img/Drawings8_full.png"
-        min: "/assets/img/Drawings8_small.png"
+        full: "/assets/img/Drawings8_full"
+        min: "/assets/img/Drawings8_small"
       -
-        full: "/assets/img/Drawings9_full.png"
-        min: "/assets/img/Drawings9_small.png"
+        full: "/assets/img/Drawings9_full"
+        min: "/assets/img/Drawings9_small"
   -
     title: Concept Art
     id: conceptart
@@ -147,23 +147,23 @@ sections:
     paragraph: Concept Art is another thing i was working on. Despite being easier to draw becouse I don't have to add shades, this is what I still have to learn the most.
     images:
       -
-        full: "/assets/img/CA3_full.png"
-        min: "/assets/img/CA3_small.png"
+        full: "/assets/img/CA3_full"
+        min: "/assets/img/CA3_small"
       -
-        full: "/assets/img/CA2_full.png"
-        min: "/assets/img/CA2_small.png"
+        full: "/assets/img/CA2_full"
+        min: "/assets/img/CA2_small"
       -
-        full: "/assets/img/CA1_full.png"
-        min: "/assets/img/CA1_small.png"
+        full: "/assets/img/CA1_full"
+        min: "/assets/img/CA1_small"
       -
-        full: "/assets/img/CA4_full.png"
-        min: "/assets/img/CA4_small.png"
+        full: "/assets/img/CA4_full"
+        min: "/assets/img/CA4_small"
       -
-        full: "/assets/img/CA5_full.png"
-        min: "/assets/img/CA5_small.png"
+        full: "/assets/img/CA5_full"
+        min: "/assets/img/CA5_small"
       -
-        full: "/assets/img/CA6_full.png"
-        min: "/assets/img/CA6_small.png"
+        full: "/assets/img/CA6_full"
+        min: "/assets/img/CA6_small"
   -
     title: Posters
     id: posters
@@ -171,20 +171,20 @@ sections:
     paragraph: I was mainly doing posters for my middle school. I was main artist for Festival of Technical Talents in my school for three years.
     images:
       -
-        full: "/assets/img/Posters1_full.png"
-        min: "/assets/img/Posters1_small.png"
+        full: "/assets/img/Posters1_full"
+        min: "/assets/img/Posters1_small"
       -
-        full: "/assets/img/Posters2_full.png"
-        min: "/assets/img/Posters2_small.png"
+        full: "/assets/img/Posters2_full"
+        min: "/assets/img/Posters2_small"
       -
-        full: "/assets/img/Posters3_full.png"
-        min: "/assets/img/Posters3_small.png"
+        full: "/assets/img/Posters3_full"
+        min: "/assets/img/Posters3_small"
       -
-        full: "/assets/img/Posters4_full.png"
-        min: "/assets/img/Posters4_small.png"
+        full: "/assets/img/Posters4_full"
+        min: "/assets/img/Posters4_small"
       -
-        full: "/assets/img/Posters5_full.png"
-        min: "/assets/img/Posters5_small.png"
+        full: "/assets/img/Posters5_full"
+        min: "/assets/img/Posters5_small"
   -
     title: Programming
     id: programming
@@ -192,29 +192,29 @@ sections:
     paragraph: Im mainly interested in Graphic Design, but also I like programming. I know basics of AHK, C++ and Java but mainly I`m programming in Python. Right now im working on indie game called <a href="https://themiczal.github.io/TaleofWitchsHeart/">Tale of Witch's Heart</a>
     images:
       -
-        full: "/assets/img/screen0.png"
-        min: "/assets/img/screen0.png"
+        full: "/assets/img/screen0"
+        min: "/assets/img/screen0"
       -
-        full: "/assets/img/screen1.png"
-        min: "/assets/img/screen1.png"
+        full: "/assets/img/screen1"
+        min: "/assets/img/screen1"
       -
-        full: "/assets/img/screen2.png"
-        min: "/assets/img/screen2.png"
+        full: "/assets/img/screen2"
+        min: "/assets/img/screen2"
       -
-        full: "/assets/img/screen3.png"
-        min: "/assets/img/screen3.png"
+        full: "/assets/img/screen3"
+        min: "/assets/img/screen3"
       -
-        full: "/assets/img/screen4.png"
-        min: "/assets/img/screen4.png"
+        full: "/assets/img/screen4"
+        min: "/assets/img/screen4"
       -
-        full: "/assets/img/screen5.png"
-        min: "/assets/img/screen5.png"
+        full: "/assets/img/screen5"
+        min: "/assets/img/screen5"
       -
-        full: "/assets/img/screen6.png"
-        min: "/assets/img/screen6.png"
+        full: "/assets/img/screen6"
+        min: "/assets/img/screen6"
       -
-        full: "/assets/img/screen7.png"
-        min: "/assets/img/screen7.png"
+        full: "/assets/img/screen7"
+        min: "/assets/img/screen7"
    
 
 # Footer content - please edit the _includes/footer.html file.

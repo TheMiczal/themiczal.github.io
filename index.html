@@ -19,7 +19,13 @@ layout: default
 <div class="sliderContainer" style="position: relative">
   <div id="slider">
     {% for image in site.images %}
-      <a href="{{- image.full -}}" class="gallery img" ><img src="{{- image.min -}}" /></a>
+      <a href="{{- image.full | append: '.jpg' -}}" class="gallery img">
+        <picture>
+          <source srcset="{{- image.min | append: '.webp' -}}" type="image/webp">
+          <source srcset="{{- image.min| append: '.jpg' -}}" type="image/jpeg">
+          <img src="{{- image.min | append: '.png' -}}" draggable='false'>
+        </picture>  
+      </a>
     {% endfor %}
   </div>
   <div class="sliderContainer-shadow"></div>
@@ -35,7 +41,13 @@ layout: default
         <div class="contentSection-header"><h2 id="{{- section.id -}}"> {{- section.title -}} </h2></div>
         <div class="contentGrid">
         {% for image in section.images %}
-            <a href="{{- image.full -}}" class="img" ><img src="{{- image.min -}}" /></a>
+          <a href="{{- image.full | append: '.png' -}}" class="gallery img">
+            <picture>
+              <source srcset="{{- image.min | append: '.webp' -}}" type="image/webp">
+              <source srcset="{{- image.min| append: '.jpg' -}}" type="image/jpeg">
+              <img src="{{- image.min | append: '.png' -}}" draggable='false'>
+            </picture>
+          </a>
         {% endfor %}
         </div>
         <p> {{- section.paragraph -}} </p>
