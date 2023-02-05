@@ -31,13 +31,13 @@ owner: "Miczał"
 nav_sites:
   -
     link: "https://www.instagram.com/miczal_/"
-    icon: icon-in
+    icon: icon-instagram
   -
     link: "https://www.youtube.com/channel/UC1-vE37Wb2sxfGgXYFsQhjw"
-    icon: icon-yt
+    icon: icon-youtube
   -
     link: "https://www.linkedin.com/in/micha%C5%82-urba%C5%84ski-870706174"
-    icon: icon-in
+    icon: icon-linkedin
 
 # Main content
 header: Hi.</br>I'm&nbsp;Miczał

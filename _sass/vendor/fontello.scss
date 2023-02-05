@@ -10,7 +10,6 @@
   font-family: "fontello";
   font-style: normal;
   font-weight: normal;
-  speak: never;
 
   display: inline-block;
   text-decoration: inherit;
@@ -34,5 +33,10 @@
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
 
-.icon-yt:before { content: '\e800'; }
-.icon-in:before { content: '\f05e'; }
+.icon-youtube:before {
+  content: '\e800'; 
+  font-size: 96%;
+  padding-top: 1px;
+}
+.icon-linkedin:before { content: '\f05b'; }
+.icon-instagram:before { content: '\f05e'; }
