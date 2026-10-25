@@ -1,88 +1,10 @@
----
-layout: default
----
-
-<section class="indexHeader">
-  <h1> {{- site.header -}} </h1>
-  <div class="indexHeader-filler" ></div>
-</section>
-
-<section class="indexHeader2">
-  <img src="{{- "assets/img/logo.png" | prepend: site.baseurl -}}"/>
-  <p> {{- site.headerParagraph -}} </p>
-</section>
-
-<section class="indexContent">
-  <p> {{- site.indexParagraph1 -}} </p>
-</section>
-<section class="indexContent">
-  <p> {{- site.indexParagraph1-5 -}} </p>
-</section>
-
-<div class="sliderContainer" style="position: relative">
-  <div id="slider">
-    {% for image in site.images %}
-      <a href="{{- image.full | append: '.jpg' -}}" class="gallery img">
-        <picture>
-          <source srcset="{{- image.min | append: '.webp' -}}" type="image/webp">
-          <source srcset="{{- image.min| append: '.jpg' -}}" type="image/jpeg">
-          <img src="{{- image.min | append: '.png' -}}" draggable='false'>
-        </picture>  
-      </a>
-    {% endfor %}
-  </div>
-  <div class="sliderContainer-shadow"></div>
-</div>
-
-<section class="indexContent2">
-  <p> {{- site.indexParagraph2 -}} </p>
-</section>
-
-{% for section in site.sections %}
-  {% if section.video==false %}
-    <section class="contentSection" id="{{- section.id -}}">
-        <div class="contentSection-header"><h2 id="{{- section.id -}}"> {{- section.title -}} </h2></div>
-        <div class="contentGrid">
-        {% for image in section.images %}
-          <a href="{{- image.full | append: '.png' -}}" class="gallery img">
-            <picture>
-              <source srcset="{{- image.min | append: '.webp' -}}" type="image/webp">
-              <source srcset="{{- image.min| append: '.jpg' -}}" type="image/jpeg">
-              <img src="{{- image.min | append: '.png' -}}" draggable='false'>
-            </picture>
-          </a>
-        {% endfor %}
-        </div>
-        <p> {{- section.paragraph -}} </p>
-    </section>
-  {% else %}
-    <section class="contentSection" id="{{- section.id -}}">
-        <div class="contentSection-header"><h2 id="{{- section.id -}}"> {{- section.title -}} </h2></div>
-        <div class="contentGrid">
-        {% for image in section.images %}
-            <video controls><source src="{{-image.full-}}"></video>
-        {% endfor %}
-        </div>
-        <p> {{- section.paragraph -}} </p>
-    </section>
-  {% endif %}
-{% endfor %}
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/simple-slider/1.0.0/simpleslider.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/luminous-lightbox/2.3.3/Luminous.min.js"></script>
-<script>
-  var imgSlider = simpleslider.getSlider({
-    container: document.getElementById('slider'),
-    prop: 'width',
-    init: 0,
-    show:  100,
-    end: 65,
-    delay: 5
-  });
-
-  var luminousOpts = {
-    injectBaseStyles: false
-  };
-
-  new LuminousGallery(document.querySelectorAll(".img"), luminousOpts);
-</script>
+<!DOCTYPE html>
+<html>
+<head>
+<title>Redirecting</title>
+<meta http-equiv="refresh" content="0; url=https://miczal.art/" />
+</head>
+<body>
+<p>Redirecting to miczal.art...</p>
+</body>
+</html>
